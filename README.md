@@ -1,2 +1,2 @@
 # projeto-infusion
-Layout criado utlizando apenas htm5 e css3.
+Layout criado utlizando apenas html5 e css3.
